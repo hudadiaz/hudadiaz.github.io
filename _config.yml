@@ -1,13 +1,14 @@
 # Setup
 title:        zaidhuda
 tagline:      accept the change or forget the chance
+description:  Zaid Huda's personal blog.
 baseurl:      ""
-paginate:     1
+paginate:     5
 
 # About/contact
 author:
   name:       Zaid Huda
-  url:        https://hudadiaz.github.io 
+  url:        https://zaidhuda.com
 
 # Gems
 gems:
