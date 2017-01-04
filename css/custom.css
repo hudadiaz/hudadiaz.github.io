@@ -5,3 +5,8 @@ body {
 p {
   font-family: "Noto Serif", Garamond, serif;
 }
+
+.page-header a {
+  color: inherit;
+  text-decoration: inherit;
+}
