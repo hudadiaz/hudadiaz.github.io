@@ -1,7 +1,6 @@
 ---
 title: First post!
-description: I've been dying to start writing! I stopped writing years ago because
-  I was too lazy to write.
+description: I've been dying to start writing! I stopped writing years ago because I was too lazy to write.
 ---
 
 I've been dying to start writing! I stopped writing years ago because I was too lazy to write.
