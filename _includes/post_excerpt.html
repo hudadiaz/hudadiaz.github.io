@@ -1,4 +1,4 @@
 {% if post.title %}
   <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
 {% endif %}
-<div class="entry-content">{{ post.excerpt }}</div>
+<div class="entry-content">{{ post.content | strip_html | truncatewords: 100 }}</div>
