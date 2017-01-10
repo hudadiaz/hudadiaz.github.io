@@ -3,5 +3,5 @@
     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
   {% endif %}
   <p class="meta">{{ post.date | date_to_string }}</p>
-  <div class="entry-content">{{ post.content | strip_html | truncatewords: 100 }}</div>
+  <p>{{ post.content | strip_html | truncatewords: 100 }}</p>
 </div>
