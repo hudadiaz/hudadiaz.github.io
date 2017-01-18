@@ -10,3 +10,8 @@ p {
   color: inherit;
   text-decoration: inherit;
 }
+
+.meta {
+  color: #aaa;
+  font-size: smaller;
+}
