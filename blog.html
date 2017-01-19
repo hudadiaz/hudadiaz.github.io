@@ -6,10 +6,11 @@ permalink: /blog
 ---
 
 <div id="home">
-  <div class="blog-index">  
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include post_excerpt.html %}
+  <div class="blog-index">
+    {% for post in site.posts %}
+      {% assign content = post.content %}
+      {% include post_excerpt.html %}
+    {% endfor %}
   </div>
   <!-- <h1>Blog Posts</h1>
   <ul class="posts">
