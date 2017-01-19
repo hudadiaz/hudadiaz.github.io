@@ -2,7 +2,6 @@
 layout: post
 title: Cloudflare
 categories: domain dns
-published: true
 ---
 
 I moved my DNS management to [Cloudflare](cloudflare.com) from [GoDaddy](godaddy.com) yesterday!
