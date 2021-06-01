@@ -8,7 +8,7 @@ published: true
 
 You can contact me through the following platforms,
 
- - [github](https://github.com/hudadiaz)
+ - [github](https://github.com/zaidhuda)
  - [twitter](https://twitter.com/hudadiaz)
  - [linkedin](https://www.linkedin.com/in/zaid-huda)
  - [email](mailto:hudadiaz@gmail.com)
