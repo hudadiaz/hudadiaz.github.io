@@ -8,7 +8,7 @@ published: true
 
 |Name|Description|
 | --- | --- |
-|[Kamus Kita](https://kamuskita.zaidhuda.com/)|A dictionary app|
+|[Kamus Kita](https://kamuskita.web.app/)|A dictionary app|
 |[Undi Cepat](https://undicepat.web.app/)|A simple polling app|
 |[GOAT Picker](https://goatpicker.web.app/)|Weekly best teammate voting app (Suria Labs)|
 |[Colored](https://colored.zaidhuda.com)|I love colors so much that I build this|
