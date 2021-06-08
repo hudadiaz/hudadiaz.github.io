@@ -15,4 +15,4 @@ published: true
 |[Colored Time](https://colored-time.zaidhuda.com)|Same reason.|
 |[Send Post Form](https://sendpostform.zaidhuda.com/)|A simple server for static website forms|
 
-Checkout my [github](https://github.com/hudadiaz) repository to see more of what I've done
+Checkout my [github](https://github.com/zaidhuda) repository to see more of what I've done
